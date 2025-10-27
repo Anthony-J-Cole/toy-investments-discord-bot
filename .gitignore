@@ -1,0 +1,4 @@
+bot/node_modules
+discord_bot/node_modules
+api/node_modules
+.env
