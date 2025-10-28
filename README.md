@@ -24,12 +24,12 @@ API_PORT=(Port for the Api to run on)
 ---
 Discord commands:
 
-/adduser (name - optional) - adds yourself to the database with the supplied name, otherwise uses discord username
-/get (stock, ammount) - buys stock 
-/sell (stock, ammount) - sells stock
-/leaderboard - Shows a leaderboard if everything was sold at the present prices
-/summary (name - optional) - Shows a profile summary of the name supplied, otherwise shows your own profile summary
-/view (stock - optional) - Shows a history and summary of the stock supplied, otherwise shows all stocks together
+- /adduser (name - optional) - adds yourself to the database with the supplied name, otherwise uses discord username
+- /get (stock, ammount) - buys stock 
+- /sell (stock, ammount) - sells stock
+- /leaderboard - Shows a leaderboard if everything was sold at the present prices
+- /summary (name - optional) - Shows a profile summary of the name supplied, otherwise shows your own profile summary
+- /view (stock - optional) - Shows a history and summary of the stock supplied, otherwise shows all stocks together
 
 ---
 
