@@ -41,6 +41,7 @@ The algorithms for each stock can be customised in the APIs `updateStockPrices.j
 - Mean Reversion
 
 And more custom basic algorithms for specific 'companies'
+
 ---
 
 Examples:
