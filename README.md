@@ -1,6 +1,6 @@
 # Toy Investment Bot for Discord
 
-IMPORTANT NOTE: the API should **not** be exposed to the open internet, it is designed to be run only on the same device as the bot - which does have proper security and validatioan implemented.  
+IMPORTANT NOTE: the API should **not** be exposed to the open internet, it is designed to be run only on the same device as the bot - which does have proper security and validation implemented.  
 
 A discord bot for a toy invesment program 
 
