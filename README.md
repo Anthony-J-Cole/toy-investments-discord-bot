@@ -5,9 +5,9 @@ IMPORTANT NOTE: the API should **not** be exposed to the open internet, it is de
 A discord bot for a toy invesment program 
 
 Requirements: 
-    Recent version of NPM and Node
-    Already created discord bot
-    MYSQL Database
+- Recent version of NPM and Node
+- Already created discord bot
+- MYSQL Database
 
 Setup:
 1. Go through the discord bot creation process
